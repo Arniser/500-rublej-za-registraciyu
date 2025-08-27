@@ -1041,7 +1041,7 @@ A: Банковские карты, Qiwi, Яндекс.Деньги, крипт�
 	<p>Включать двухфакторную аутентификацию</p>
 	</li>
 	<li>
-	<p>Проверять репутацию проекта на независимых ресурсах, таких как&nbsp;<strong><a href="https://photo-gorodov.ru/" rel="noreferrer" target="_blank">Photo Gorodov</a></strong>&nbsp;или&nbsp;<strong><a href="https://autogauge-spb.ru/" rel="noreferrer" target="_blank">AutoGauge</a></strong>.</p>
+	<p>Проверять репутацию проекта на независимых ресурсах, таких как&nbsp;<strong><a href="https://photo-gorodov.ru/" rel="noreferrer" target="_blank">БОНУСЫ ЗА РЕГИСТРАЦИЮ</a></strong>&nbsp;или&nbsp;<strong><a href="https://autogauge-spb.ru/" rel="noreferrer" target="_blank">БОНУСЫ БЕЗ ДЕПОЗИТА</a></strong>.</p>
 	</li>
 </ol>
 
